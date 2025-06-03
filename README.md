@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello! I bring good news! It is not the Dacia Sandero, but it is my GitHub profile
+
+I mess around with a variety of challenges depending on what piques my interest at the time. Programming and developing community skills is a lot of FAAFO, but from a silly teen to now (over 10 years!), I've covered a broad range of problems and projects, public and private, in languages like Python, Java, C, C++ and more, as well as dabbling in some other languages like Rust most recently!
+
+More to come!
+
+~~yes that is Guenther Steiner in front of a burning car, it goes hard~~
+
+~ Raven
 
 <!--
 **raven0034/raven0034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
